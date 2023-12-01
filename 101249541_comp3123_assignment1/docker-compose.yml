@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+  mongodb:
+    image: mongo
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: pojmanovg
+      MONGO_INITDB_ROOT_PASSWORD: LNiIKpfBHaszneM5
+    ports:
+      - "27017:27017"
+
+  backend:
+    build: ./path/to/backend/Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - mongodb+srv://pojmanovg:<LNiIKpfBHaszneM5>@clusterdb.getloi8.mongodb.net/
+    depends_on:
+      - mongodb
+
+  frontend:
+    build: ./path/to/frontend/Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  mongodb_data:
