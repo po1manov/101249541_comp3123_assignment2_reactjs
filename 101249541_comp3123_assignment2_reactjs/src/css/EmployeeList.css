@@ -1,0 +1,78 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+
+/*Container for the entire page content*/
+.page-container {
+    /*display: flex;*/
+    flex-direction: column;
+    align-items: center;
+    /*justify-content: flex-start;*/
+    /*position: relative;*/
+    padding-top: 15vh;
+    min-height: 100vh;
+}
+
+.employee-list-container {
+    max-width: 800px;
+    /*position: relative;*/
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.add-employee-button {
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #218838;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.add-employee-button:hover {
+    background-color: #28a745;
+    text-decoration: none;
+}
+
+.view-button {
+    padding: 8px 20px;
+    border-radius: 5px;
+    background-color: #1f57b5;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+.view-button:hover {
+    background-color: darkblue;
+    text-decoration: none;
+}
+
+/* Styles for the table */
+.table {
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.table th, .table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
