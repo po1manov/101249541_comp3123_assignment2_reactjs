@@ -1,0 +1,23 @@
+.view-employee-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.view-employee-container h2 {
+    text-align: center;
+    color: #333;
+}
+
+.employee-detail {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.employee-detail strong {
+    font-weight: bold;
+    margin-right: 5px;
+}

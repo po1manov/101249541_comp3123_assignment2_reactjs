@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Screenshots showing data from my REST API on POSTMAN:
 
-In the project directory, you can run:
+![Screenshot 2023-12-02 223728.png](src%2Fimg%2FScreenshot%202023-12-02%20223728.png)
+
+![Screenshot 2023-12-02 223737.png](src%2Fimg%2FScreenshot%202023-12-02%20223737.png)
+
+## Screenshots showing web site:
 
 ### `npm start`
 

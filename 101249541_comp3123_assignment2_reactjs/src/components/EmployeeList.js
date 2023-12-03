@@ -46,7 +46,7 @@ function EmployeeList() {
             </div>
             <div className="employee-list-container">
                 <h2>Employee List</h2>
-                <Link to="/add-employee" className="add-employee-button">Add Employee</Link>
+                <Link to="/add-employee" className="add-employee-button">Add Employee</Link> {/* Add this line */}
                 <table className="table">
                     <thead>
                     <tr>
@@ -76,3 +76,4 @@ function EmployeeList() {
     );
 }
 export default EmployeeList;
+//s
