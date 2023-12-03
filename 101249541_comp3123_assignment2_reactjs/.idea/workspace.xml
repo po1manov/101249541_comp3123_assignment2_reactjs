@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f891944d-a835-4443-aa94-60e2068ee4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/101249541_comp3123_assignment2_reactjs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Screenshot 2023-12-02 223728.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Screenshot 2023-12-02 223737.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AddEmployee.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddEmployee.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/EmployeeList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EmployeeList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UpdateEmployee.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UpdateEmployee.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/AddEmployee.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/AddEmployee.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/EmployeeList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/EmployeeList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/ViewEmployee.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/ViewEmployee.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +70,8 @@
       <updated>1701465341154</updated>
       <workItem from="1701465343254" duration="4739000" />
       <workItem from="1701575046463" duration="88000" />
+      <workItem from="1701628112463" duration="791000" />
+      <workItem from="1701628935541" duration="62000" />
     </task>
     <servers />
   </component>

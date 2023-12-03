@@ -1,14 +1,42 @@
-# Getting Started with Create React App
+# Getting Started with ReactJS APP
+## Egor Poimanov - 101249541
+###
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots showing data from my REST API on POSTMAN:
-
+###
 ![Screenshot 2023-12-02 223728.png](src%2Fimg%2FScreenshot%202023-12-02%20223728.png)
 
 ![Screenshot 2023-12-02 223737.png](src%2Fimg%2FScreenshot%202023-12-02%20223737.png)
+###
+###
+## Screenshots showing CRUD operations on website:
 
-## Screenshots showing web site:
+### Login
+![login.png](src%2Fimg%2Flogin.png)
+### SignUp
+![signup.png](src%2Fimg%2Fsignup.png)
+### Employee List
+![empList.png](src%2Fimg%2FempList.png)
+### Add Employee
+![addEmp.png](src%2Fimg%2FaddEmp.png)
+### 1 Employee Added
+![emp1added.png](src%2Fimg%2Femp1added.png)
+### 1 Employee Deleted
+![emp1deleted.png](src%2Fimg%2Femp1deleted.png)
+### Employee Videw
+![empView.png](src%2Fimg%2FempView.png)
+
+
+### Background copyright:
+https://unsplash.com/photos/blue-and-black-abstract-painting-prMn9KINLtI
+###
+###
+###
+###
+###
+###
 
 ### `npm start`
 
