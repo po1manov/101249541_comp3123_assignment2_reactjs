@@ -1,6 +1,7 @@
 # Getting Started with ReactJS APP
 ## Egor Poimanov - 101249541
 ###
+## Go in /01249541_comp3123_assignment2_reactjs/01249541_comp3123_assignment2_reactjs to see pictures.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
